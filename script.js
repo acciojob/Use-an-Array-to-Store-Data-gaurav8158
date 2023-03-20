@@ -1,2 +1,2 @@
-let yourArray = ['one', 2, true, 'three', undefined];
+let yourArray = ['one','three', 2, true, undefined];
 console.log(simpleArray.length);
