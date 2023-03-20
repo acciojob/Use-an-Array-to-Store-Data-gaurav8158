@@ -1,2 +1,6 @@
-let yourArray = ['one','three', 2, true, undefined];
-console.log(yourArray.length);
+let yourArray;
+// assign your array the correct value in the next line
+// your code here!
+// code end
+
+module.exports = yourArray
