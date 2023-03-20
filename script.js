@@ -1,6 +1,5 @@
-let yourArray;
-// assign your array the correct value in the next line
-// your code here!
-// code end
+
+let yourArray = [true, 'accio', 12, {}, 13.4]
+
 
 module.exports = yourArray
